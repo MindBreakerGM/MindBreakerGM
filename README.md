@@ -2,3 +2,7 @@
 <p>What I use:</p>
 <p>Backend - Python/Flask/Django</p>
 <p>Frontend - HTML/CSS/JS/React.js</p>
+<p>What I do:</p>
+<p>Web programming, Pentest.</p>
+
+
