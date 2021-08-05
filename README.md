@@ -7,5 +7,3 @@
 <p>Contact me:</p>
 <p>nixwares@gmail.com</p>
 <p><a href='https://nixwares.github.io/Site_card/'>Site</a></p>
-<p><a href='https://t.me/Nixwares'>Telegram</a></p> 
-
