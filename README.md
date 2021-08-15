@@ -1,5 +1,4 @@
 <h2>ResponseGood <a href="https://responsegood.github.io/Site/">Site</a></h2>
-<br />
 <h2>Main skills</h2>
 <br />
 <p position='center'>
