@@ -1,17 +1,25 @@
 <h1>ResponseGood</h1>
 <h2>Main skills</h2>
+
 <p position='center'>
   <img src='https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png' height='32px' weight='32px'/> <!--python-->
   <img src='https://2.bp.blogspot.com/-akUMQE_QrbQ/WlRknLVGMzI/AAAAAAAABK8/17IzwwW3nMEAedZP5TiP0FquLnhhIPZdgCLcBGAs/s1600/dj.png' height='32px' weight='32px'/>
   <!--django-->
 </p>
-<img src='https://image.flaticon.com/icons/png/128/29/29594.png' height='32px' weight='32px'/> <!--sql-->
+
+<p position='center'>
+  <img src='https://image.flaticon.com/icons/png/128/29/29594.png' height='32px' weight='32px'/> <!--sql-->
+  <img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png' height='32px' weight='32px'/> <!--mongoDB-->
+</p>
+
 <p position='center'>
   <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png' height='32px' weight='32px'/> <!--css-->
   <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png' height='32px' weight='32px'/> <!--html-->
   <img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png' height='32px' weight='32px'/> <!--js-->
 </p>
+
 <h3>Other skills</h3>
+
 <p position='center'>
   <img src='https://image.flaticon.com/icons/png/512/226/226772.png' height='32px' weight='32px'/> <!--linux-->
   <img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png' height='32px' weight='32px'/> <!--git-->
