@@ -1,6 +1,9 @@
 <h1>ResponseGood</h1>
 <h2>Main skills</h2>
-<img src='https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png' height='32px' weight='32px'/> <!--python-->
+<p position='center'>
+  <img src='https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png' height='32px' weight='32px'/> <!--python-->
+  <img src='https://2.bp.blogspot.com/-akUMQE_QrbQ/WlRknLVGMzI/AAAAAAAABK8/17IzwwW3nMEAedZP5TiP0FquLnhhIPZdgCLcBGAs/s1600/dj.png height='32px' weight='32px'/>
+</p>
 <img src='https://image.flaticon.com/icons/png/128/29/29594.png' height='32px' weight='32px'/> <!--sql-->
 <p position='center'>
   <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png' height='32px' weight='32px'/> <!--css-->
