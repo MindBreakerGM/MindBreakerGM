@@ -17,7 +17,6 @@
   <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png' height='32px' weight='32px'/> <!--css-->
   <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png' height='32px' weight='32px'/> <!--html-->
   <img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png' height='32px' weight='32px'/> <!--js-->
-  <img src='https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg' height='32px' weight='32px'/> <!--node-js-->
 </p>
 <h3>Other skills.</h3>
 <br />
