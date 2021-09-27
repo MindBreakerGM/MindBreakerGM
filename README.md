@@ -1,4 +1,3 @@
-<img src="https://wallpaperboat.com/wp-content/uploads/2020/11/13/60417/programming-minimalist-08.jpg" width="50%" height="50%"/>
 <p>Languages and other:</p>
 <p position='center'>
   <img src="https://cdn2.iconfinder.com/data/icons/well-known-1/1024/Python-128.png" width="32px" height="32px"/>
