@@ -1,5 +1,4 @@
-
-<h2>Programming languages and other.</h2>
+<h2>languages and tools:</h2>
 <p position='center'>
   <img src="https://cdn2.iconfinder.com/data/icons/well-known-1/1024/Python-128.png" width="32px" height="32px"/>
 <p/>
