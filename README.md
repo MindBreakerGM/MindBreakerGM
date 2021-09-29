@@ -10,5 +10,5 @@
 </p>
 <p>My contacts:</p>
 <a href="https://responsegood.github.io/Site/">Site</a>
-<p>ResponseGood016@protonmail.com</p>
+<p>ResponseGoodMail@protonmail.com</p>
 <a href="https://www.codewars.com/users/ResponseGood">Codewars</a>
