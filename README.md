@@ -15,5 +15,5 @@
 <p>ResponseGoodMail@protonmail.com</p>
 
 <p>My projects</p>
-<a href="https://github.com/ResponseGood/Forum">Forum React.js / Django</a>
+<a href="https://github.com/ResponseGood/Forum">Forum</a><p>Technologies React.js / Django</p>
 
