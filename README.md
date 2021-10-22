@@ -16,5 +16,5 @@
 <b><p>My projects</p></b>
 <p>Open source forum React.js / Django - <a href="https://github.com/ResponseGood/Forum">Forum</a></p>
 <p>Library for data substitution of yoomoney - <a href="https://github.com/ResponseGood/YoomoneyFaker">YoomoneyFaker</a></p>
-<img src="https://media.giphy.com/media/lgTpcy4dkdUc0/giphy.gif"/>
+<img src="https://media.giphy.com/media/lgTpcy4dkdUc0/giphy.gif" width="120px" height="120px/>
 
