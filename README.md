@@ -20,6 +20,7 @@
 <p>Open source forum React.js / Django - <a href="https://github.com/ResponseGood/Forum">Forum</a></p>
 <p>Plugins and scripts</p>
 <p>Library for data substitution of yoomoney - <a href="https://github.com/ResponseGood/YoomoneyFaker">YoomoneyFaker</a></p>
+<p>Search for social networks by nickname - <a href="https://github.com/ResponseGood/Social_Searcher">Social_Searcher</a></p>
 <img src="https://www.codewars.com/users/ResponseGood/badges/large"/>
 <img src="https://media.giphy.com/media/lgTpcy4dkdUc0/giphy.gif"/>
 
