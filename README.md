@@ -16,8 +16,10 @@
 <a href='mailto:ResponseGoodMail@protonmail.com'>Email</a>
 
 <b><p>My projects</p></b>
+<br/>
 <p>Web</p>
 <p>Open source forum React.js / Django - <a href="https://github.com/ResponseGood/Forum">Forum</a></p>
+<br/>
 <p>Plugins and scripts</p>
 <p>Library for data substitution of yoomoney - <a href="https://github.com/ResponseGood/YoomoneyFaker">YoomoneyFaker</a></p>
 <img src="https://www.codewars.com/users/ResponseGood/badges/large"/>
