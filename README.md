@@ -1,9 +1,8 @@
 <h3>Hello, Friend!</h3>
-``` python
-class Python:
-def backend(self):
-self.Flask
-self.Django
+``` cpp
+bool getBit(int num, int i) {
+	return ((num & (1<<i)) != 0);
+}
 ```
 <b><p>My contacts:</p></b>
 <a href="https://responsegood.github.io/Site/">Site</a>
