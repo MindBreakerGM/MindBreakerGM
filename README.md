@@ -1,6 +1,11 @@
 <h3>Hello, Friend!</h3>
-<p>Programming languages.</p>
-<code>class Python:</code>
+```python
+class Python:
+  def backend(self):
+    self.Flask
+    self.Django
+    self.fastapi
+```
 <b><p>My contacts:</p></b>
 <a href="https://responsegood.github.io/Site/">Site</a>
 <a href="https://www.codewars.com/users/ResponseGood">Codewars</a>
