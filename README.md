@@ -1,10 +1,6 @@
 <h3>Hello, Friend!</h3>
 <p>Programming languages.</p>
-<p position='center'>
-  <img src='./icons/icons8-javascript-48.png'\>
-  <img src='./icons/4375050_logo_python_icon.png'\>
-  <img src='./icons/new-php-logo.png' height='32px' weight='32px'\>
-</p>
+<code>class Python:</code>
 <b><p>My contacts:</p></b>
 <a href="https://responsegood.github.io/Site/">Site</a>
 <a href="https://www.codewars.com/users/ResponseGood">Codewars</a>
