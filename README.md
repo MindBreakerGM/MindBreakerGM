@@ -4,7 +4,7 @@ class Python:
   def backend(self):
     self.Flask
     self.Django
-    self.fastapi
+    self.Fastapi
 ```
 <b><p>My contacts:</p></b>
 <a href="https://responsegood.github.io/Site/">Site</a>
