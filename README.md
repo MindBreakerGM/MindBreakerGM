@@ -1,6 +1,7 @@
 <h3>Hello, Friend!</h3>
 
 <img src='https://cdn-icons.flaticon.com/png/512/4299/premium/4299932.png?token=exp=1639316355~hmac=c4e56d43b28d665f1d81bcf13c0ee84f' height='48px' weight='48px'/>
+<img src='https://cdn-icons-png.flaticon.com/512/2807/2807781.png' height='48px' weight='48px'/>
 
 <b><p>My contacts:</p></b>
 <a href="https://responsegood.github.io/Site/">Site</a>
