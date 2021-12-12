@@ -1,9 +1,4 @@
 <h3>Hello, Friend!</h3>
-``` cpp
-bool getBit(int num, int i) {
-	return ((num & (1<<i)) != 0);
-}
-```
 <b><p>My contacts:</p></b>
 <a href="https://responsegood.github.io/Site/">Site</a>
 <a href="https://www.codewars.com/users/ResponseGood">Codewars</a>
