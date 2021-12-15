@@ -3,7 +3,7 @@
 <p position='center'>
   <img src='https://cdn-icons-png.flaticon.com/512/1822/1822921.png' height='48px' weight='48px'/>
   <img src='https://cdn-icons-png.flaticon.com/512/2807/2807781.png' height='38px' weight='38px'/>
-  <img src='https://cdn-icons-png.flaticon.com/512/460/460670.png' height='38px' weight='38px'/>
+  <img src='https://cdn-icons-png.flaticon.com/512/460/460670.png' height='32px' weight='32px'/>
 </p>
 
 <b><p>My contacts:</p></b>
