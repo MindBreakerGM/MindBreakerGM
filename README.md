@@ -1,5 +1,5 @@
-<h1 align="center">Hello friend, I'm RSS</h1>
-<p>Web developer</p>
+<h2 align="center">Hello friend, I'm RSS</h1>
+<p align="center">Web developer</p>
 
 <b><p>My contacts:</p></b>
 <a href="https://responsegood.github.io/Site/">Site</a>
