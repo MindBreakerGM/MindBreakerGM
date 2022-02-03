@@ -1,4 +1,4 @@
-<h3 position="center">Hello, friend!</h3>
+#Hello, friend!
 <p>Web developer</p>
 
 <b><p>My contacts:</p></b>
