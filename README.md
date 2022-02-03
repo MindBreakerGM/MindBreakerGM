@@ -1,6 +1,7 @@
 <h2 align="center">Hello friend, I'm Rss</h1>
 <p align="center">Web developer</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <b><p>My contacts:</p></b>
 <a href="https://responsegood.github.io/Site/">Site</a>
 <a href="https://www.codewars.com/users/ResponseGood">Codewars</a>
