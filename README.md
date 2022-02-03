@@ -1,4 +1,4 @@
-<h1 align="center">Hello friend!</h1>
+<h1 align="center">Hello friend, I'm RSS</h1>
 <p>Web developer</p>
 
 <b><p>My contacts:</p></b>
