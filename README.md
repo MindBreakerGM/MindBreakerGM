@@ -1,10 +1,5 @@
-<h3>Hello, friend!</h3>
-
-<p position='center'>
-  <img src='https://cdn-icons-png.flaticon.com/512/1822/1822921.png' height='38px' weight='48px'/>
-  <img src='https://cdn-icons-png.flaticon.com/512/460/460670.png' height='38px' weight='38px'/>
-</p>
-
+<h3>Hello, friend!S</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237C14FF&duration=3000&center=true&width=460&height=60&lines=Web+Developer;Python;Javascript)](https://git.io/typing-svg)
 <b><p>My contacts:</p></b>
 <a href="https://responsegood.github.io/Site/">Site</a>
 <a href="https://www.codewars.com/users/ResponseGood">Codewars</a>
