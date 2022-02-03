@@ -1,4 +1,4 @@
-<h3>Hello, Friend!</h3>
+<h3>Hello, friend!</h3>
 
 <p position='center'>
   <img src='https://cdn-icons-png.flaticon.com/512/1822/1822921.png' height='38px' weight='48px'/>
