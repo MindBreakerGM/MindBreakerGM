@@ -15,4 +15,11 @@
   </table>
 <p>
 <p align="center"><img  style="max-width: 100%;" src="https://www.codewars.com/users/MindBreakerGM/badges/large"/></p>
-<p align="center"><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=BookList&theme=midnight-purple"/></p>
+<p align="center">
+  <table>
+      <tr>
+        <td>
+          <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=BookList&theme=midnight-purple"/>
+        </td>
+      </tr>
+</p>
