@@ -1,9 +1,9 @@
 <p align="middle"><img src="https://github.com/MindBreakerGM/MindBreakerGM/blob/main/greeting.png?raw=true" width="80%"/></p>
-<ul align="middle">
+<p align="middle"><ul>
   <li>Design</li>
   <li>Code</li>
   <li>Chill</li>
-</ul>
+</ul></p>
 <p align="middle">
   <table>
       <tr>
