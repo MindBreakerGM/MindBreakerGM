@@ -6,14 +6,12 @@
   <table>
       <tr>
         <td>
-          <img  style="max-width: 100%;" width="600px" src="https://github-readme-stats.vercel.app/api?username=MindBreakerGM&show_icons=true&hide_border=true&theme=aura_dark"/>
+          <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=MindBreakerGM&show_icons=true&hide_border=true&theme=aura_dark"/>
           </td>
           <td>
-            <img  style="max-width: 100%;" width="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM&show_icons=true"/>
-          </td>
-          <td>
-            <img  style="max-width: 100%;" width="600px" src="https://www.codewars.com/users/MindBreakerGM/badges/large"/>
+            <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM&show_icons=true"/>
           </td>
       </tr>
   </table>
+  <img  style="max-width: 100%;" src="https://www.codewars.com/users/MindBreakerGM/badges/large"/>
 <p>
