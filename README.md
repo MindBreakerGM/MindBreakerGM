@@ -5,4 +5,4 @@
 <p align="center"><a href="https://github.com/ResponseGood/BookList">Online library</a> React.js / Node.js / Express / JWT / MongoDB</p>
 <p align="center"><a href="https://github.com/MindBreakerGM/PhotoTS">Backend photo application</a> TypeScript / Express / JWT / MongoDB</p>
 <p align="center"><a href="https://github.com/MindBreakerGM/MindComponentsReact">React component set</a> Typescript in React</p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM"/><
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM"/>
