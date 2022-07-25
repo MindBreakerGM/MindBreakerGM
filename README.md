@@ -1,5 +1,4 @@
-<p align="middle"><img src="
-greeting.png"/></p>
+<p align="middle"><img src="https://github.com/MindBreakerGM/MindBreakerGM/blob/main/greeting.png?raw=true"/></p>
 <p align="middle">
   <table>
       <tr>
