@@ -6,4 +6,5 @@
 <p align="center"><a href="https://github.com/MindBreakerGM/PhotoTS">Backend photo application</a> TypeScript / Express / JWT / MongoDB</p>
 <p align="center"><a href="https://github.com/MindBreakerGM/MindComponentsReact">React component set</a> Typescript in React</p>
 <p align="center"><img src="https://www.codewars.com/users/MindBreakerGM/badges/large"/></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM)](https://github.com/anuraghazra/github-readme-stats)
 
