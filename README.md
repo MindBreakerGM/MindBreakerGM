@@ -3,9 +3,13 @@
   <b>Design</b> & <b>Code</b> & <b>Books</b>
 </p>
 <p align="middle">
-          <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=MindBreakerGM&show_icons=true&hide_border=true&theme=aura_dark"/>
-          <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM&show_icons=true&hide_border=true"/>
-<p>
+  <table>
+    <tr>
+          <th><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=MindBreakerGM&show_icons=true&hide_border=true&theme=aura_dark"/></th>
+          <th><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM&show_icons=true&hide_border=true"/></th>
+    </tr>
+  </table>
+</p>
 <p align="center"><img  style="max-width: 100%;" src="https://www.codewars.com/users/MindBreakerGM/badges/large"/></p>
 <p align="middle">
   <a href="https://github.com/MindBreakerGM/BookList"><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=BookList&theme=midnight-purple"/></a>
