@@ -1,5 +1,5 @@
 <p align="middle"><img src="https://github.com/MindBreakerGM/MindBreakerGM/blob/main/greeting.png?raw=true" width="80%"/></p>
-<ul>
+<ul align="middle">
   <li>Design</li>
   <li>Code</li>
   <li>Chill</li>
