@@ -15,7 +15,7 @@
   </table>
 <p>
 <p align="center"><img  style="max-width: 100%;" src="https://www.codewars.com/users/MindBreakerGM/badges/large"/></p>
-<p align="center">
+<p align="middle">
   <table>
       <tr>
         <td>
