@@ -1,6 +1,8 @@
 <p align="middle"><img src="https://github.com/MindBreakerGM/MindBreakerGM/blob/main/greeting.png?raw=true" width="80%"/></p>
 <ul>
-  <li>My <a href="https://rss212.xyz/">blog</a></li>
+  <li>Design</li>
+  <li>Code</li>
+  <li>Chill</li>
 </ul>
 <p align="middle">
   <table>
