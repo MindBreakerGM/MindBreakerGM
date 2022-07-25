@@ -19,8 +19,8 @@
   <table>
       <tr>
         <td>
-          <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=BookList&theme=midnight-purple"/>
-          <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=MindComponentsReact&theme=midnight-purple"/>
+          <a href="https://github.com/MindBreakerGM/BookList"><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=BookList&theme=midnight-purple"/></a>
+          <a href="https://github.com/MindBreakerGM/MindComponentsReact"><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=MindComponentsReact&theme=midnight-purple"/></a>
         </td>
       </tr>
 </p>
