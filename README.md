@@ -1,4 +1,4 @@
-<p align="middle"><img src="https://github.com/MindBreakerGM/greeting.png" width="80%"/></p>
+<p align="middle"><img src="https://github.com/MindBreakerGM/MindBreakerGM/blob/main/greeting.png" width="80%"/></p>
 <p align="middle">
   <b>Design</b> & <b>Code</b> & <b>Books</b>
 </p>
