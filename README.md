@@ -16,11 +16,6 @@
 <p>
 <p align="center"><img  style="max-width: 100%;" src="https://www.codewars.com/users/MindBreakerGM/badges/large"/></p>
 <p align="middle">
-  <table>
-      <tr>
-        <td>
-          <a href="https://github.com/MindBreakerGM/BookList"><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=BookList&theme=midnight-purple"/></a>
-          <a href="https://github.com/MindBreakerGM/MindComponentsReact"><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=MindComponentsReact&theme=midnight-purple"/></a>
-        </td>
-      </tr>
+  <a href="https://github.com/MindBreakerGM/BookList"><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=BookList&theme=midnight-purple"/></a>
+  <a href="https://github.com/MindBreakerGM/MindComponentsReact"><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=MindComponentsReact&theme=midnight-purple"/></a>
 </p>
