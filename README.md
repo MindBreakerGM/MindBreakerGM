@@ -20,6 +20,7 @@
       <tr>
         <td>
           <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=BookList&theme=midnight-purple"/>
+          <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=MindBreakerGM&repo=MindComponentsReact&theme=midnight-purple"/>
         </td>
       </tr>
 </p>
