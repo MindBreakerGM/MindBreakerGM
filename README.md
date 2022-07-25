@@ -11,6 +11,9 @@
           <td>
             <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM&show_icons=true"/>
           </td>
+          <td>
+            <img  style="max-width: 100%;" src="https://www.codewars.com/users/MindBreakerGM/badges/large"/>
+          </td>
       </tr>
   </table>
 <p>
