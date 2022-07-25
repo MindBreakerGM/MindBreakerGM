@@ -3,16 +3,8 @@
   <b>Design</b> & <b>Code</b> & <b>Books</b>
 </p>
 <p align="middle">
-  <table>
-      <tr>
-        <td>
           <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=MindBreakerGM&show_icons=true&hide_border=true&theme=aura_dark"/>
-          </td>
-          <td>
-            <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM&show_icons=true&hide_border=true"/>
-          </td>
-      </tr>
-  </table>
+          <img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM&show_icons=true&hide_border=true"/>
 <p>
 <p align="center"><img  style="max-width: 100%;" src="https://www.codewars.com/users/MindBreakerGM/badges/large"/></p>
 <p align="middle">
