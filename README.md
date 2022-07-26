@@ -3,7 +3,7 @@
   <b>Design</b> & <b>Code</b> & <b>Books</b>
 </p>
 <p align="middle">
-  <table style="width:100px;">
+  <table class="table-widgets">
     <tr>
           <th><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=MindBreakerGM&show_icons=true&hide_border=true&theme=aura_dark"/></th>
           <th><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM&show_icons=true&hide_border=true"/></th>
