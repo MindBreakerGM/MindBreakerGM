@@ -5,7 +5,7 @@
 <p align="middle">
   <table class="table-widgets">
     <tr>
-          <th><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=MindBreakerGM&hide_border=true"/></th>
+          <th><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=MindBreakerGM&hide_border=true&theme=midnight-purple"/></th>
           <th><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindBreakerGM&show_icons=true&hide_border=true"/></th>
     </tr>
   </table>
