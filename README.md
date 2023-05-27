@@ -11,6 +11,6 @@
   </table>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=soulnaturalist&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soulnaturalist&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"><img  style="max-width: 100%;" src="https://www.codewars.com/users/SoulNaturalist/badges/large"/></p>
