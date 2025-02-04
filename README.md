@@ -6,7 +6,7 @@
   <table>
     <tr>
           <th><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=SoulNaturalist&hide_border=true&bg_color=000&text_color=fff&title_color=fff&count_private=true"/></th>
-          <th><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulNaturalist&hide=html,css,Dockerfile,Dart,Shell,Vue,Go,Cmake,typescript,c%2B%2B&show_icons=true&hide_border=true&bg_color=000&title_color=fff"/></th>
+          <th><img  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulNaturalist&hide=html,css,Dockerfile,Dart,Shell,swift,Vue,Go,Cmake,typescript,c%2B%2B&show_icons=true&hide_border=true&bg_color=000&title_color=fff"/></th>
     </tr>
   </table>
 </p>
